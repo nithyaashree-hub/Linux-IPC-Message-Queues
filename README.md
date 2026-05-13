@@ -96,6 +96,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
+<img width="731" height="403" alt="WhatsApp Image 2026-05-13 at 10 17 05 AM" src="https://github.com/user-attachments/assets/f7cf581e-5554-4cfe-9941-22a98e07746a" />
 
 
 
